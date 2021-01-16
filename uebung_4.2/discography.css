@@ -1,0 +1,70 @@
+body{
+	background-image: url("background2.jpg") ;
+	 -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-opacity: 30%;
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-attachment: fixed;
+	}
+
+.text{ 
+ font-family: bahnschrift condensed, arial, sans serif;
+ font-size: 20px;
+ color:#ffffff;
+ }
+
+ h1{
+ 	font-size: 50px;
+	font-family: impact, arial, sans serif;
+	text-align: left;
+	margin-top: 1px;
+	color: #ffffff;
+	margin-left: 30px;
+}
+
+ h2{
+ 	font-family: bahnschrift condensed, arial, sans serif; 
+ 	font-size: 50px;
+ 	color:#ffffff;
+ 	padding: 20px;
+	border-radius: 12px;
+	border: 10px solid #06397A;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 40px;
+	font-family: Bahnschrift condensed, arial, sans serif;
+	color: #ffffff;
+	font-size: 20px;
+	overflow: hidden;
+ }
+
+ h3{
+ 	font-family: bahnschrift condensed, arial, sans serif; 
+ 	font-size: 30px;
+ 	color:#ffffff;
+
+ }
+ .topnav{
+  font-family: Bahnschrift condensed, arial, sans serif;
+  color: #ffffff;
+  text-align: right;
+  font-size: 20px;
+  background-color: ##07052b;
+  padding: 20px;
+  margin-right: 30px;
+}
+
+.topnav a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+}
+
+.topnav a:hover{
+	color: #ffffff;
+	font-weight: bold;
+	text-decoration: underline;
+}
